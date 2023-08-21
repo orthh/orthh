@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=FullStack%20Developer&fontSize=60)
 
+## Hi there ❗ 
+
+
 ## 💁‍♂️ Who am I?
 * Undergraduate of Chonnam Univ. 
 * Full Stack Developer
